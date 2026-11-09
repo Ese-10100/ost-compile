@@ -1,0 +1,10 @@
+.gitattributes
+# Audio: never push source tracks or compiled output
+*.m4a
+*.mp3
+*.flac
+*.wav
+
+# Logs and temp work
+*.log
+korra_work/
